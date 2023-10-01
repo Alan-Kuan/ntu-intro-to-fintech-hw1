@@ -9,6 +9,7 @@ readme = "README.md"
 python = ">=3.11,<3.13"
 numpy = "^1.26.0"
 pandas = "^2.1.1"
+ta-lib = "^0.4.28"
 
 
 [build-system]
